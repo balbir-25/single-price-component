@@ -12,7 +12,8 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color: hsl(204, 43%, 93%)
+    background-color: hsl(204, 43%, 93%);
+    font-family: "Karla";
   }
 
   /* =============================START MAIN  AREA=========================== */
